@@ -149,7 +149,7 @@ export default function RedsteepMedicineAuthPrototype() {
       <div className="max-w-7xl mx-auto space-y-6">
         <header className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold tracking-tight">Redsteep — Medicine Authenticity (Demo)</h1>
+            <h1 className="text-3xl font-bold tracking-tight">Sahilwavs — Medicine Authenticity (Demo)</h1>
             <p className="text-gray-600 mt-1">Lightweight blockchain-style prototype with QR verification for your medical shop.</p>
           </div>
           <div className="flex gap-2">
